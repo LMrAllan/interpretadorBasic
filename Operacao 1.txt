@@ -1,0 +1,13 @@
+10 PRINT "Este programa pede o nome e a idade do usuario e as exibe."
+20 REM Solicita o nome do usuário
+30 PRINT "Digite o seu nome: "
+40 INPUT nome
+50 REM Solicita a idade do usuário
+60 PRINT "Digite a sua idade: "
+70 INPUT idade
+80 REM Exibe o nome e a idade do usuário
+90 PRINT "O seu nome e: "
+100 PRINT nome
+110 PRINT "Sua idade e: "
+120 PRINT idade
+130 HALT

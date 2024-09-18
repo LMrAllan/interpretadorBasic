@@ -1,0 +1,13 @@
+10 PRINT "Este programa realiza a subtracao entre dois numeros."
+20 REM Solicita o primeiro número do usuário
+30 PRINT "Digite o primeiro numero: "
+40 INPUT num1
+50 REM Solicita o segundo número do usuário
+60 PRINT "Digite o segundo numero: "
+70 INPUT num2
+80 REM Realiza a subtraca dos dois números
+90 LET resultado = num1 - num2
+100 REM Exibe o resultado da subtraca
+110 PRINT "A subtraca dos numeros e: "
+120 PRINT resultado
+130 HALT

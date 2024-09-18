@@ -1,0 +1,12 @@
+10 PRINT "Este programa solicita dois numeros e exibe o maior"
+20 PRINT "Digite o primeiro numero:"
+30 INPUT num1
+40 PRINT "Digite o segundo numero:"
+50 INPUT num2
+60 IF num1 > num2 THEN GOTO 90
+70 PRINT "O maior numero e:"
+80 PRINT num2
+85 HALT
+90 PRINT "O maior numero e:"
+100 PRINT num1
+110 HALT
